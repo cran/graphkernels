@@ -1,7 +1,7 @@
-5e9d4dc709cb58842ffbdb497c42a9c2 *DESCRIPTION
+8708b5947aab07babfee4fd29a5a0aa9 *DESCRIPTION
 c7007481764268044f17f2fbd385ab61 *NAMESPACE
 291dd52dc5867f7be897917c8ab72b70 *R/RcppExports.R
-e9b1b0ef9d8d5f23fc1562e2f60c7daa *R/graphKernels.R
+119c773fda761d03f3be67026db990cc *R/graphKernels.R
 a867ad1c8c4dee6cbeea6ee0c068d749 *data/mutag.RData
 31c7aadc85d595fe644420663c1d2eba *man/CalculateEdgeHistGaussKernel.Rd
 2bdc4d09f200e53e0bf5fe493b689e68 *man/CalculateEdgeHistKernel.Rd
@@ -16,7 +16,7 @@ abdaa70153e51e9a55294150f055fe6a *man/CalculateVertexEdgeHistGaussKernel.Rd
 9815db1920c02677dc7107cec3089a96 *man/CalculateVertexVertexEdgeHistKernel.Rd
 5e46d3dd7d76f058923682854249e084 *man/CalculateWLKernel.Rd
 5d9d387a03b80e80a6ade079ae8f690a *man/GetGraphInfo.Rd
-24ed0250bd8e1cda95d48b361b4e5d27 *man/graphkernels-package.Rd
+04575fddc5dcfb75543b55570d81b5aa *man/graphkernels-package.Rd
 435f884f3a6dc3c4ce0bb8dd077068b4 *man/graphkernels_CalculateKernelCpp.Rd
 7ca5ec36bae2d8f7cfd47cc65f76c06f *man/mutag.Rd
 746406794b734c7382f103e040c5079c *src/Makevars
