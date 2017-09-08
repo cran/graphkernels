@@ -117,7 +117,7 @@ CalculateShortestPathKernel <- function(G) {
     D <- distances(G[[i]])
     G.floyd[[i]] <- make_full_graph(vcount(G[[i]])) %>% set_edge_attr("weight", value = D[lower.tri(D)])
   }
-  CalculateKStepRandomWalkKernel(G, 1)
+  CalculateKStepRandomWalkKernel(G, c(0, 1))
 }
 
 GetGraphInfo <- function(g) {
