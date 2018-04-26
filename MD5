@@ -1,7 +1,7 @@
-a237491b51984006839cd64ebe1e6cc6 *DESCRIPTION
+e4a7e5103e2e68158ebe80be4299897b *DESCRIPTION
 115e46cd0766f720643603807f933374 *NAMESPACE
 ac72d3020bf06e5b47c5b9a950ec86be *R/RcppExports.R
-ef6485ab35cded7fcb8466adcd335814 *R/graphKernels.R
+4dce36e22260e1bdb0b0f0b2bdbe6baf *R/graphKernels.R
 92290254832bd180da66fa9f07105938 *data/mutag.RData
 ce798720d33ad5239f6aa798e1cad2dc *man/CalculateConnectedGraphletKernel.Rd
 31c7aadc85d595fe644420663c1d2eba *man/CalculateEdgeHistGaussKernel.Rd
